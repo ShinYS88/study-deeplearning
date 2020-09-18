@@ -6,5 +6,6 @@
     ],
     "python.formatting.provider": "black",
     "python.linting.enabled": true,
-    "python.pythonPath": "/Users/shinys/anaconda3/envs/test1/bin/python"
+    // "python.pythonPath": "/Users/shinys/anaconda3/envs/test1/bin/python"
+    "python.pythonPath": "C:\\Users\\ShinYS\\Anaconda3\\envs\\deep1\\python.exe"
 }
